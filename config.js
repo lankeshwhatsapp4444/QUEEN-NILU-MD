@@ -1,8 +1,8 @@
 /*
-WHATSAPP BOT BY Janith sadanuwan 
-WHATSAPP - 94767438882
-SUPPORT GROUP - https://t.me/QueenNilu
-YOUTUBE - http://youtube.com/janithsadanuwan
+WHATSAPP BOT BY Lankesh Sandaruwan 
+WHATSAPP - 940772609337
+SUPPORT GROUP - https://wa.me/message/MO5WD73YMT4OK1
+YOUTUBE - https://youtube.com/@ModifyWithYtShort?si=EmmSIlvXMtiaoqgy
 */
 
 const fs = require('fs');
